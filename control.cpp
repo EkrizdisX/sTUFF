@@ -5,11 +5,12 @@
 #include <algorithm>
 using namespace std;
 
-
+int colour(){}
 
 int main(){
 
     int N;
+    int M;
     cin >>N;
     int *arr=new int[N];
 
